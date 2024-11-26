@@ -4,7 +4,7 @@ A list of all AI agent VC's
 
 # Current List
 
-![Example List](Screenshot 2024-11-26 at 16.47.14.png?raw=true)
+<img width="1512" alt="Screenshot 2024-11-26 at 16 47 14" src="https://github.com/user-attachments/assets/cfb7aa9d-b15b-41b4-a8e1-0388dda000c1">
 
 [View List](https://docs.google.com/spreadsheets/d/e/2PACX-1vSZa47cLZuteD-RWxSqV2k5jndamuY45t-59VIeLsJwuaJ91HDiZtgd6vqBb3cck4jODR7S40WGcOtd/pubhtml)
 
