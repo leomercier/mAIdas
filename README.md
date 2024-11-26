@@ -10,10 +10,10 @@ A list of all AI agent VC's
 
 - [x] domain purchase mAIdas.xyz & mAIdas.ai
 - [x] create google sheet
-- [] share google sheet and crowd source all AI VC's to track
-- [] build static site to pull in data from Google Sheet
-- [] create Journalist AI agent to write about each AI VC
-- [] create news feed of AI VC performance and assets under management
+- [ ] share google sheet and crowd source all AI VC's to track
+- [ ] build static site to pull in data from Google Sheet
+- [ ] create Journalist AI agent to write about each AI VC
+- [ ] create news feed of AI VC performance and assets under management
 
 # How to add 
 
